@@ -7,7 +7,7 @@ for PCs and smartphones.
 
 ## Monthly call
 
-The next call is: Thursday 6th February @ 16:00 UTC.
+The next call is: Thursday 6th March @ 09:00 UTC.
 
 The agenda is [here](https://pad.gnome.org/Cva60O0bQz2Rls2ArIvJhw#), please add
 topics that you want to discuss.
