@@ -17,15 +17,15 @@ topics that you want to discuss.
 The call will happen monthly, usually on the first Thursday of the month. To
 accommodate a global community the time varies as follows:
 
-  * Odd months -- European winter time (Jan, Mar, Nov): 9:00 UTC - 09:30 UTC
-  * Odd months -- European summer time (May, Jul, Sep): 8:00 UTC - 08:30 UTC
+  * Odd months -- European winter time (Jan, Mar, Nov): 10:00 UTC - 10:30 UTC
+  * Odd months -- European summer time (May, Jul, Sep): 09:00 UTC - 09:30 UTC
   * Even months -- US summer time (Apr, Jun, Aug, Oct): 15:00 UTC - 15:30 UTC
   * Even months -- US winter time (Feb, Dec): 16:00 UTC - 16:30 UTC
 
 Another way to look at the same times is:
 
   * Odd months: 10:00 Central European Time
-  * Even months: 08:00 US Pacific Time
+  * Even months: 09:00 US Pacific Time
 
 Calendar invites are available here:
 
