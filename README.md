@@ -7,7 +7,7 @@ for PCs and smartphones.
 
 ## Monthly call
 
-The next call is: Thursday 2nd October @ 15:00 UTC.
+The next call is: Thursday 6th November @ 10:00 UTC.
 
 The agenda is [here](https://pad.gnome.org/Cva60O0bQz2Rls2ArIvJhw#), please add
 topics that you want to discuss.
@@ -24,7 +24,7 @@ accommodate a global community the time varies as follows:
 
 Another way to look at the same times is:
 
-  * Odd months: 10:00 Central European Time
+  * Odd months: 11:00 Central European Time
   * Even months: 09:00 US Pacific Time
 
 Calendar invites are available here:
