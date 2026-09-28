@@ -7,7 +7,7 @@ for PCs and smartphones.
 
 ## Monthly call
 
-The next call is: Thursday 3rd September 2026 @ 9:00 UTC.
+The next call is: Thursday 1st October 2026 @ 15:00 UTC.
 
 The agenda is [here](https://pad.gnome.org/tTepE7GfS4u-DilgLC5UVA?both#), please add
 topics that you want to discuss.
